@@ -21,7 +21,9 @@ models usually only result in marginal performance gains for novelty recognition
 are advantageous because they are computationally efficient and more flexible to various input dimensions. The most fundamental
 benefit of traditional CNNs is that they provide a clear.
 
+The architecture of the proposed network consists of two convolutional layers with a max-pooling layer of each as shown in Fig. 2. 
 ![Alt text](https://github.com/jesmeen-online/Deep-Learning-Anomaly-Detection/blob/main/Screenshot%202024-05-30%20143904.png)
 
+# Output example
 
-
+![Alt text](https://github.com/jesmeen-online/Deep-Learning-Anomaly-Detection/blob/main/Screenshot%202024-05-30%20144039.png)
