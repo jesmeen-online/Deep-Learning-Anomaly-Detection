@@ -19,6 +19,8 @@ datasets. Because of its intrinsic simplicity, conventional CNNs are a better fi
 temporal dependencies than spatial patterns. When used for time series data rather than high-resolution image data, improved CNN
 models usually only result in marginal performance gains for novelty recognition. For datasets with limited resources, traditional CNNs
 are advantageous because they are computationally efficient and more flexible to various input dimensions. The most fundamental
-benefit of traditional CNNs is that they provide a clear and intellig
+benefit of traditional CNNs is that they provide a clear.
+https://github.com/jesmeen-online/Deep-Learning-Anomaly-Detection/blob/main/Screenshot%202024-05-30%20143904.png
+
 
 
